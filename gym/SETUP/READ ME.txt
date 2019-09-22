@@ -1,0 +1,8 @@
+Instructions :
+
+1) Please ensure that JAVA is installed in your computer.
+
+2)After the installation process, perform the following steps:
+	1) Go to start--->Control Panel--->Administative Tools--->Data Sources (ODBC)--->Click on add in User DSN tab--->Microsoft Access Driver(*.mdb)--->Set the Data Source Name to emp2 and select the database from the folder where you have installed the software---> Click on OK
+
+3)Now you are ready to use this Fitness Freak software.
